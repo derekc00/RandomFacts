@@ -15,10 +15,6 @@
                                       `._________`-.   `.   `.___
                                                     SSt  `------'`
 
-## Which country does Easter Island belong to?
-
-Easter Island is a special territory of Chile that was annexed in 1888.
-
 ## What planet has the strongest gravity?
 
 Jupiter is the most massive planet in our Solar System, meaning it also has the highest gravity. If you stood on Jupiter – you cannot because it does not have a solid surface – than you would weigh two and a half times what you would on Earth.
