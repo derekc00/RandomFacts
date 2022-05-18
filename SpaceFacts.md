@@ -26,3 +26,5 @@ Jupiter is the most massive planet in our Solar System, meaning it also has the 
 ## What relation does Space Force have with SpaceX?
 
 In August 2020, the U.S. Space Force gave SpaceX a contract for US$316 Mn for one launch. Additionally, SpaceX will also carry out 40% of the U.S. military's satellite launch requirements over the next 5 years.
+
+## Space is completely silent. 
